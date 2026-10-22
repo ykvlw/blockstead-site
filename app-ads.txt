@@ -1,0 +1,5 @@
+# app-ads.txt for Blockstead (blocksteadgame.com)
+# Lists the ad sellers authorized to sell ads in the Blockstead app, so buyers can trust the inventory.
+# Replace this file's contents with the full list from Appodeal:
+#   Appodeal dashboard -> Apps -> Blockstead -> app-ads.txt (copy all lines)
+# The store listings' website field must be https://blocksteadgame.com for ad networks to find this file.
